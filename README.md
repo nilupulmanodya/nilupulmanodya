@@ -9,7 +9,8 @@
 
 ```
 def nilupulmanodya():
-  skills_with_proficiency = {'Python': 'Advance', 'HTML & CSS': 'Advance', 'SQL': 'Beginner', 'DSA': 'Beginner'}
+  skills_with_proficiency = {'Python': 'Advance', 'HTML & CSS': 'Advance', 
+                              'SQL': 'Beginner', 'DSA': 'Beginner'}
   tools = ['numpy', 'pandas', 'django', 'matplotlib', 'flask', 'powerBI']
   cloud_architecture = ['heroku']
   kaggle_competitions = 1
